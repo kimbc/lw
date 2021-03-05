@@ -1,4 +1,4 @@
-# LW Coding Test
+# Coding Test
 
 각 문제에 대한 SQL 쿼리문을 업로드 하였습니다.
 
