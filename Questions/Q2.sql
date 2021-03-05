@@ -18,3 +18,8 @@ visit_occurrence
 group by person_id
 order by cnt desc
 limit 1
+
+
+Result>
+
+"1059760"	18873
